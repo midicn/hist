@@ -1,0 +1,30 @@
+{
+  "name": "midicn · 音乐史",
+  "short_name": "音乐史",
+  "description": "【批次 M1】时期 8 + 里程碑 150 + 专题 32。中国节点只写 ≤120 字对照 + 链 cn 站。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070706",
+  "theme_color": "#C97B4A",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "assets/core/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
