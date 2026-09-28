@@ -1,7 +1,7 @@
 {
   "name": "midicn · Music History",
   "short_name": "Music History",
-  "description": "【批次 M1】时期 8 + 里程碑 150 + 专题 32。中国节点只写 ≤120 字对照 + 链 cn 站。",
+  "description": "Music history, period by period — from early music to the present, with the key milestones, representative works and listening cues of each era.",
   "start_url": "../en/",
   "scope": "./",
   "display": "standalone",

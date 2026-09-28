@@ -1,7 +1,7 @@
 {
   "name": "midicn · 音乐史",
   "short_name": "音乐史",
-  "description": "【批次 M1】时期 8 + 里程碑 150 + 专题 32。中国节点只写 ≤120 字对照 + 链 cn 站。",
+  "description": "音乐史按时期展开 —— 从早期音乐到当代，每个时期的关键节点、代表作品与听辨线索。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
