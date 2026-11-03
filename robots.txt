@@ -1,3 +1,63 @@
 User-agent: *
 Allow: /
+
+# Search access does not grant training or third-party material rights.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /data/
+Disallow: /meta/
+Disallow: /midi/
+Disallow: /files/
+Disallow: /bluegrass/
+Disallow: /en/bluegrass/
+Disallow: /en/cool-jazz/
+Disallow: /folk-rock/
+Disallow: /en/folk-rock/
+Disallow: /music-and-commerce/
+Disallow: /en/music-and-commerce/
+Disallow: /music-and-fashion/
+Disallow: /en/music-and-fashion/
+Disallow: /oral-vs-written/
+Disallow: /en/oral-vs-written/
+Disallow: /pentatonic-origin/
+Disallow: /en/pentatonic-origin/
+Disallow: /shanghai-pop-1920s/
+Disallow: /en/shanghai-pop-1920s/
+Disallow: /404.html
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /data/
+Disallow: /meta/
+Disallow: /midi/
+Disallow: /files/
+Disallow: /bluegrass/
+Disallow: /en/bluegrass/
+Disallow: /en/cool-jazz/
+Disallow: /folk-rock/
+Disallow: /en/folk-rock/
+Disallow: /music-and-commerce/
+Disallow: /en/music-and-commerce/
+Disallow: /music-and-fashion/
+Disallow: /en/music-and-fashion/
+Disallow: /oral-vs-written/
+Disallow: /en/oral-vs-written/
+Disallow: /pentatonic-origin/
+Disallow: /en/pentatonic-origin/
+Disallow: /shanghai-pop-1920s/
+Disallow: /en/shanghai-pop-1920s/
+Disallow: /404.html
+
 Sitemap: https://hist.midicn.com/sitemap.xml

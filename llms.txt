@@ -1,0 +1,35 @@
+# MIDI音乐 · 音乐史
+
+> 听音乐，学音乐，做音乐。
+
+按时期、地区、人物与体裁查阅音乐史。
+
+这是网站内容入口索引。收录与引用不改变原文、曲目、音色或歌词的许可；本文件不授予模型训练权。
+This curated discovery index grants no model-training or third-party material rights.
+
+## 网站与使用说明
+
+- [MIDI音乐：站点与使用说明](https://home.midicn.com/about/): 品牌、分站、来源与反馈。
+
+## 内容入口
+
+- [音乐史 · midicn](https://hist.midicn.com/): 按时期、地区、人物与体裁查阅音乐史。
+- [A=440 的由来 · 音乐史](https://hist.midicn.com/a440-history/): 从地方音高到国际标准，A=440 如何成为现代音乐的基准。
+- [关于音乐史 · 音乐史](https://hist.midicn.com/about/): 音乐史按什么线索编写、收录哪些内容。
+- [考级制度的建立 · 音乐史](https://hist.midicn.com/abrsm-1889/): 1889 年，联合考试委员会把音乐学习切成可测量的等级
+- [酸爵士 · 音乐史](https://hist.midicn.com/acid-jazz/): 伦敦 DJ 把七〇年代放克爵士放回舞池，乐队照着老唱片的声音演奏
+- [亨泽尔特 · 音乐史](https://hist.midicn.com/adolf-von-henselt/): 在圣彼得堡教出一代钢琴家的巴伐利亚人
+- [成人抒情 · 音乐史](https://hist.midicn.com/adult-contemporary/): 为成人电台而做的柔和流行，靠旋律、嗓音与精致制作取胜。
+- [非洲节拍 · 音乐史](https://hist.midicn.com/afrobeat/): 鼓组交错、长循环与铜管齐奏，把舞池和政治放在同一首歌里。
+- [阿依达开罗首演 · 音乐史](https://hist.midicn.com/aida-1871/): 1871年开罗，阿依达把大歌剧、异域与帝国仪式绑在一起。
+- [格拉祖诺夫 · 音乐史](https://hist.midicn.com/aleksandr-glazunov/): 贝利亚耶夫圈子的学院派，把俄国交响传统守到苏联初期
+- [斯坦钦斯基 · 音乐史](https://hist.midicn.com/aleksey-stanchinsky/): 斯克里亚宾与普罗科菲耶夫之间，二十六岁早逝的俄罗斯现代主义者
+- [卡塞拉 · 音乐史](https://hist.midicn.com/alfredo-casella/): 把意大利带进现代主义的推动者，钢琴写新古典，也写战争
+- [阿尔坎 · 音乐史](https://hist.midicn.com/alkan/): 把钢琴写得比乐队更密的巴黎隐士
+- [环境音乐 · 音乐史](https://hist.midicn.com/ambient/): 把音色、空间与时间放到前景的音乐，可以分心听，也可以一直听下去
+- [比奇 · 音乐史](https://hist.midicn.com/amy-beach/): 写出美国女性第一部交响曲，钢琴小品同样精致
+- [古乐音乐会 · 音乐史](https://hist.midicn.com/ancient-music-concert/): 十八世纪的伦敦，听众买票去听一百年前的音乐，曲目变成了经典
+
+## English
+
+- [MIDI Music](https://home.midicn.com/en/): Listen, learn and make music.
